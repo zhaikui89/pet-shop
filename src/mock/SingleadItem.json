@@ -1,0 +1,128 @@
+[
+  {
+    "index": "2725",
+    "is_show": 1,
+    "type": "7",
+    "is_dynamic": "0",
+    "type_name": "单广告模板",
+    "title": "谷登新品",
+    "sub_title": "5折限量",
+    "content_images": [
+      {
+        "advid": "24543",
+        "atid": "0",
+        "image": "https://img2.epetbar.com/nowater/2017-11/17/18/c1d2ddcc28b959fde8a6c4b413bfa858.jpg@!water",
+        "img_size": "750x310",
+        "target": {
+          "mode": "web",
+          "param": "http://sale.epet.com/m/mould/activity/ztMzE3NA%3D%3D.html?tid=3174"
+        }
+      }
+    ]
+  },
+  {
+    "index": "2517",
+    "is_show": 1,
+    "type": "7",
+    "is_dynamic": "0",
+    "type_name": "单广告模板",
+    "title": "NexGard尼可信",
+    "sub_title": "",
+    "content_images": [
+      {
+        "advid": "24554",
+        "atid": "0",
+        "image": "https://img2.epetbar.com/nowater/2017-11/20/10/7c30b558f0e5026cc47605ea877dd1de.jpg@!water",
+        "img_size": "750x310",
+        "target": {
+          "mode": "web",
+          "param": "http://sale.epet.com/m/mould/activity/ztMzE4Nw%3D%3D.html?tid=3187"
+        }
+      }
+    ]
+  },
+  {
+    "index": "2507",
+    "is_show": 1,
+    "type": "7",
+    "is_dynamic": "0",
+    "type_name": "单广告模板",
+    "title": "冠能",
+    "sub_title": "满399送智能碗",
+    "content_images": [
+      {
+        "advid": "23833",
+        "atid": "0",
+        "image": "https://img2.epetbar.com/nowater/2017-10/19/09/407f8316833a3bd928ac31f5e4d14dc3.jpg@!water",
+        "img_size": "750x310",
+        "target": {
+          "mode": "web",
+          "param": "http://sale.epet.com/m/mould/activity/sMjYyNg%3D%3D.html?tid=2626"
+        }
+      }
+    ]
+  },
+  {
+    "index": "2279",
+    "is_show": 1,
+    "type": "7",
+    "is_dynamic": "0",
+    "type_name": "单广告模板",
+    "title": "荣耀玛氏",
+    "sub_title": "全场6折起",
+    "content_images": [
+      {
+        "advid": "23133",
+        "atid": "0",
+        "image": "https://img2.epetbar.com/nowater/2017-09/19/10/2f0b98bc57350354a0cbfe1090c97ae2.jpg@!water",
+        "img_size": "750x310",
+        "target": {
+          "mode": "web",
+          "param": "http://sale.epet.com/m/mould/activity/ztMjI5Mw%3D%3D.html?tid=2293"
+        }
+      }
+    ]
+  },
+  {
+    "index": "2445",
+    "is_show": 1,
+    "type": "7",
+    "is_dynamic": "0",
+    "type_name": "单广告模板",
+    "title": "优卡",
+    "sub_title": "只为爱宠卓越表现",
+    "content_images": [
+      {
+        "advid": "23504",
+        "atid": "0",
+        "image": "https://img2.epetbar.com/nowater/2017-09/20/13/1b18c703af536f15160beb1d0de06275.jpg@!water",
+        "img_size": "750x310",
+        "target": {
+          "mode": "web",
+          "param": "http://sale.epet.com/m/mould/activity/ztMjUxMQ%3D%3D.html?tid=2511"
+        }
+      }
+    ]
+  },
+  {
+    "index": "2492",
+    "is_show": 1,
+    "type": "7",
+    "is_dynamic": "0",
+    "type_name": "单广告模板",
+    "title": "临期不改好货本质",
+    "sub_title": "进口好货，低至1折！",
+    "content_images": [
+      {
+        "advid": "23744",
+        "atid": "0",
+        "image": "https://img2.epetbar.com/nowater/2017-10/12/14/66de171f32497dbc764417cb09c63247.jpg@!water",
+        "img_size": "750x310",
+        "target": {
+          "mode": "web",
+          "param": "http://sale.epetht.com/m/mould/activity/ztMjQ2Nw%3D%3D.html?tid=2467"
+        }
+      }
+    ]
+  }
+]
